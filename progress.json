@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:38:59.813Z",
+  "generated_at": "2026-10-22T06:39:02.303Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -142,6 +142,91 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-21T20:15:03.805Z",
       "last_pushed_at": "2026-10-21T20:15:03.805Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-22T05:42:29.059Z",
+      "last_pushed_at": "2026-10-22T05:42:29.059Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-22T05:44:10.509Z",
+      "last_pushed_at": "2026-10-22T05:44:10.509Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-10-22T05:49:18.592Z",
+      "last_pushed_at": "2026-10-22T05:49:18.592Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-10-22T06:06:54.043Z",
+      "last_pushed_at": "2026-10-22T06:06:54.043Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-10-22T06:13:29.258Z",
+      "last_pushed_at": "2026-10-22T06:13:29.258Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-10-22T06:21:48.919Z",
+      "last_pushed_at": "2026-10-22T06:21:48.919Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-10-22T06:24:58.735Z",
+      "last_pushed_at": "2026-10-22T06:24:58.735Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
