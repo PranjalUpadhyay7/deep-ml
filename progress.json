@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:19:38.795Z",
+  "generated_at": "2026-10-30T18:19:54.349Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -338,6 +338,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-29T16:19:37.273Z",
       "last_pushed_at": "2026-10-29T16:19:37.273Z"
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-10-30T18:19:48.954Z",
+      "last_pushed_at": "2026-10-30T18:19:48.954Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
