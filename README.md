@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 16 problems · 0 labs · 13 math
+**30** solved · 16 problems · 1 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-24 | [solution](problems/0313-numerical-gradient-checking) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-22 | [solution](problems/0842-standardscaler-fit-and-transform) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-10-30 | [solution](labs/0018-train-a-linear-regression-model) |
 
 ## Math
 
